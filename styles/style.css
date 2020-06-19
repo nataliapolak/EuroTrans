@@ -87,7 +87,7 @@ ul {
 }
 
 .primary-section--blue {
-  background: #2667ff;
+  background: rgba(150, 173, 188, 1);
   color: white;
 }
 
